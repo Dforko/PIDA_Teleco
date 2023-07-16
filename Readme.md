@@ -1,32 +1,3 @@
----
-jupyter:
-  kernelspec:
-    display_name: Python 3
-    language: python
-    name: python3
-  language_info:
-    codemirror_mode:
-      name: ipython
-      version: 3
-    file_extension: .py
-    mimetype: text/x-python
-    name: python
-    nbconvert_exporter: python
-    pygments_lexer: ipython3
-    version: 3.10.6
-  nbformat: 4
-  nbformat_minor: 5
-  papermill:
-    default_parameters: {}
-    duration: 31.876518
-    end_time: "2023-06-02T07:44:42.186253"
-    environment_variables: {}
-    input_path: \_\_notebook\_\_.ipynb
-    output_path: \_\_notebook\_\_.ipynb
-    parameters: {}
-    start_time: "2023-06-02T07:44:10.309735"
-    version: 2.4.0
----
 
 ::: {#fa103bd1 .cell .markdown}
 ### PIDA:PROYECTO INDIVIDUAL Nº2
